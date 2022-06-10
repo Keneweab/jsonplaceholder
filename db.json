@@ -1,0 +1,12 @@
+var OBJECTS = [
+{
+name:Kenobi Jedi,
+age: 22,
+school: FEU,
+},
+{
+name: Eunice,
+age: 23,
+school: UP
+}
+];
